@@ -1,0 +1,10 @@
+{
+    "name":"TrainAlexNet",
+    "param":
+    {
+        "name":"alexnet",
+        "norm":false,
+        "num_classes":"{data.generator.classCount$int}"
+    },
+    "inputSize":224
+}
